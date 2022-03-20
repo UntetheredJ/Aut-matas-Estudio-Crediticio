@@ -9,6 +9,8 @@
 **Escuela de Ingeniería de Sistemas e Informática**   
 
 ****
+**LINK DEL VIDEO: ** https://youtu.be/QpDzRH6jD88
+
 
 **Presentado por:**
 - Juan David Escalante Pinilla - 2182308
