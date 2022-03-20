@@ -1,4 +1,3 @@
-<center>
 # Estudio de Factibilidad Para Un Crédito Financiero
 
 **Autómatas y Lenguajes Formales**
